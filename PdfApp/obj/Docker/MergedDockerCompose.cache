@@ -1,0 +1,29 @@
+services:
+  pdfapp:
+    container_name: app
+    depends_on:
+      pdfdb:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: http://+:80
+    image: erblinh/pdfapi
+    ports:
+    - published: 80
+      target: 80
+    - target: 80
+    - target: 443
+    volumes:
+    - C:\Users\acer\.aspnet\https:/root/.aspnet/https:ro
+    - C:\Users\acer\.microsoft\usersecrets:/root/.microsoft/usersecrets:ro
+  pdfdb:
+    container_name: pdfdb
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_PID: Express
+      SA_PASSWORD: 123!ErblinH
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    ports:
+    - published: 1435
+      target: 1433
+version: '3.4'

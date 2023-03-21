@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GTf6ui4eJwAjUep0Y6uX00RL8ExXx4zzXtRjbGvwqZs=",
+  "Source": "PdfApp.API",
+  "BasePath": "_content/PdfApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

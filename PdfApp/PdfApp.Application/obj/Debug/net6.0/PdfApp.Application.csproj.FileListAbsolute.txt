@@ -1,0 +1,17 @@
+C:\Users\acer\Desktop\pdfConverter\PdfApp\PdfApp.Application\bin\Debug\net6.0\PdfApp.Application.deps.json
+C:\Users\acer\Desktop\pdfConverter\PdfApp\PdfApp.Application\bin\Debug\net6.0\PdfApp.Application.runtimeconfig.json
+C:\Users\acer\Desktop\pdfConverter\PdfApp\PdfApp.Application\bin\Debug\net6.0\PdfApp.Application.dll
+C:\Users\acer\Desktop\pdfConverter\PdfApp\PdfApp.Application\bin\Debug\net6.0\PdfApp.Application.pdb
+C:\Users\acer\Desktop\pdfConverter\PdfApp\PdfApp.Application\bin\Debug\net6.0\PdfApp.Domain.dll
+C:\Users\acer\Desktop\pdfConverter\PdfApp\PdfApp.Application\bin\Debug\net6.0\PdfApp.Domain.pdb
+C:\Users\acer\Desktop\pdfConverter\PdfApp\PdfApp.Application\obj\Debug\net6.0\PdfApp.Application.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\pdfConverter\PdfApp\PdfApp.Application\obj\Debug\net6.0\PdfApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\pdfConverter\PdfApp\PdfApp.Application\obj\Debug\net6.0\PdfApp.Application.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\pdfConverter\PdfApp\PdfApp.Application\obj\Debug\net6.0\PdfApp.Application.AssemblyInfo.cs
+C:\Users\acer\Desktop\pdfConverter\PdfApp\PdfApp.Application\obj\Debug\net6.0\PdfApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\pdfConverter\PdfApp\PdfApp.Application\obj\Debug\net6.0\PdfApp.Application.csproj.CopyComplete
+C:\Users\acer\Desktop\pdfConverter\PdfApp\PdfApp.Application\obj\Debug\net6.0\PdfApp.Application.dll
+C:\Users\acer\Desktop\pdfConverter\PdfApp\PdfApp.Application\obj\Debug\net6.0\refint\PdfApp.Application.dll
+C:\Users\acer\Desktop\pdfConverter\PdfApp\PdfApp.Application\obj\Debug\net6.0\PdfApp.Application.pdb
+C:\Users\acer\Desktop\pdfConverter\PdfApp\PdfApp.Application\obj\Debug\net6.0\PdfApp.Application.genruntimeconfig.cache
+C:\Users\acer\Desktop\pdfConverter\PdfApp\PdfApp.Application\obj\Debug\net6.0\ref\PdfApp.Application.dll
